@@ -1,4 +1,4 @@
-﻿//var test = 1;
+﻿
 
 var Creationeng = document.getElementById("creationeng");
 var Creationchi = document.getElementById("creationchi");
